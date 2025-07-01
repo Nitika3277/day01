@@ -1,0 +1,11 @@
+Q1. what is data?
+A1. Data is collection of meaningfull and organized info that is stored in tables.
+
+Q2. What is filesystem?
+A2. A file system is a method and data structure used by an operating system (OS) to:
+Organize
+Store
+Retrieve
+Name
+Manage files on a storage device (like hard drives, SSDs, USBs, etc.)
+
